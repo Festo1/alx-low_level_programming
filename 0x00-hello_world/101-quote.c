@@ -1,11 +1,12 @@
 #include <stdio.h>
 #include <unixstd.h>
 /**
- * main -In this program we will print a line to a standard error
- * REtur: 1 [Success]
+ * main - In this program we will print a line to a standard error
+ * Return: 1 [Success]
  */
 int main(void)
 {
-	fput("and that piece of art is useful\" - Dora Korpar, 
-2015-10-19\n", stdout);
+	fput("and that piece of art is useful - Dora
+Korpar, 2015-10-19\n", stdout);
 return (1);
+}
