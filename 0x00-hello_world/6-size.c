@@ -11,15 +11,15 @@ int main(void)
 	long long int d;
 	float e;
 
-pintif("Size of a char: %lu bytes(s)\n", (unsigned long)
+printif("Size of a char: %lu bytes(s)\n", (unsigned long)
 sizeof(a));
-pintif("Size of a int: %lu bytes(s)\n", (unsigned long)
+printif("Size of a int: %lu bytes(s)\n", (unsigned long)
 sizeof(b));
-pintif("Size of a long int: %lu bytes(s)\n", (unsigned long)
+printif("Size of a long int: %lu bytes(s)\n", (unsigned long)
 sizeof(c));
-pintif("Size of a long long int: %lu bytes(s)\n", (unsigned long)
+printif("Size of a long long int: %lu bytes(s)\n", (unsigned long)
 sizeof(e));
-pintif("Size of a char: %lu bytes(s)\n", (unsigned long)
+printif("Size of a char: %lu bytes(s)\n", (unsigned long)
 sizeof(f));
 return (0);
 }
