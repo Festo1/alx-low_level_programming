@@ -1,0 +1,1 @@
+This is the 0x02. C - Functions, nested loops task where I will indicate all the basic knowledge about C Functions, Nested loops. Simply, a function is a group of various statements that perform a task togther and nested loop is a loop within a loop.
