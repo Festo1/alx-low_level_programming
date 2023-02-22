@@ -8,7 +8,7 @@
 
 ### What are bugs ?
 
-* Bugs are defects that prevents software working efficiently.
+* Bugs are defects that prevents software from working efficiently.
 
 ### How to perform debugging ?
 
