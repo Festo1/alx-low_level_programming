@@ -18,7 +18,7 @@ int main(void)
 		if (f % 3 != 0 && f % 5 != 0)
 			printf("%d", f);
 
-		putchar(f == b ? 'h' : ' ');
+		putchar(f == b ? '\n' : ' ');
 		f++;
 	}
 
