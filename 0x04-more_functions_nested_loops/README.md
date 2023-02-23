@@ -1,7 +1,7 @@
 # **0x04. C - More functions, more nested loops**
 
-* This project is about more Functions and nested loops where we will talk
-these functions and loops in Detailed Analysis.
+* This project is about more Functions and nested loops where we will advance
+in these functions and loops into detailed analysis.
 
 ## Project Reqirements
 
