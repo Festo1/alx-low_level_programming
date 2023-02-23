@@ -39,7 +39,7 @@ be included in your header file called main.h.
 
 * Don’t forget to push your header file.
 
-## The Protypes that to be used to test in the Project.
+## The Protypes to be used in performing tests during the Project.
 
 * int _putchar(char c);
 
@@ -65,7 +65,7 @@ be included in your header file called main.h.
 
 * void print_number(int n);
 
-### **The Role of the some Protypes used to test the project**
+### **The Role of some of the Protypes used to test the project**
 
 * _isupper - Checks for the uppercase charcter.
 
