@@ -73,11 +73,11 @@ be included in your header file called main.h.
 
 * mul - multiplies two integers.
 
-* print_numbers - Prints the numbers from.
+* print_numbers - Prints the numbers.
 
-* print_most_numbers - Print the numbers from 0 up to 9.
+* print_most_numbers - Prints the numbers.
 
-* more_numbers - It prints 10 times the numbers.
+* more_numbers - It prints times the numbers.
 
 * print_line - It  creats a straight line in the terminal.
 
