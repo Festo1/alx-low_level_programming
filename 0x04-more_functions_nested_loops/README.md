@@ -37,4 +37,54 @@ one shown in the examples.
 * The prototypes of all your functions and the prototype of the function _putchar should
 be included in your header file called main.h.
 
-* Don’t forget to push your header file. 
+* Don’t forget to push your header file.
+
+## The Protypes that to be used to test in the Project.
+
+* int _putchar(char c);
+
+* int _isupper(int c);
+
+* int _isdigit(int c);
+
+* int mul(int a, int b);
+
+* void print_numbers(void);
+
+* void print_most_numbers(void);
+
+* void more_numbers(void);
+
+* void print_line(int n);
+
+* void print_diagonal(int n);
+
+* void print_square(int size);
+
+* void print_triangle(int size);
+
+* void print_number(int n);
+
+### **The Role of the some Protypes used to test the project**
+
+* _isupper - Checks for the uppercase charcter.
+
+* _isdigit - Checks for a digit.
+
+* mul - multiplies two integers.
+
+* print_numbers - Prints the numbers from.
+
+* print_most_numbers - Print the numbers from 0 up to 9.
+
+* more_numbers - It prints 10 times the numbers.
+
+* print_line - It  creats a straight line in the terminal.
+
+* print_diagonal - It creates a diagonal line in the terminal.
+
+* print_square - It prints a square.
+
+* print_triangle - It prints a triangle.
+
+* print_number - It prints an integer.
