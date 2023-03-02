@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * rot13 - It encodes rot13.This simply substitutes cipher that replaces a
