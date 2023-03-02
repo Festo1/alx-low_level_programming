@@ -7,7 +7,6 @@
  * @size: Size of buffer to be printed.
  * Return: void.
  */
-
 void print_buffer(char *b, int size)
 {
 	int count;
@@ -23,8 +22,7 @@ void print_buffer(char *b, int size)
 			else
 				printf("%02x", *(b + count + b_size));
 			if ((count % 2) != 0 && count != 0)
-				printf(" ");
-		}
+				printf(" "); }
 		for (count = 0; count < 10; count++)
 		{
 			if ((count + b_size) >= size)
@@ -33,12 +31,10 @@ void print_buffer(char *b, int size)
 				 *(b + count + b_size) <= 126)
 				printf("%c", *(b + count + b_size));
 			else
-				printf(".");
-		}
+				printf("."); }
 		if (b_size >= size)
 			continue;
-		printf("\n");
-	}
+		printf("\n"); }
 	if (size <= 0)
 		printf("\n");
 }
