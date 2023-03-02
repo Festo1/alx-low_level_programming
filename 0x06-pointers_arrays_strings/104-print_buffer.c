@@ -4,8 +4,7 @@
 /**
  * print_buffer - It prints buffer.
  * @b: buffer to be printed.
- * @size: Size of buffer to be printed.
- * Return: void.
+ * @size: bytes to be printed from a buffer
  */
 void print_buffer(char *b, int size)
 {
