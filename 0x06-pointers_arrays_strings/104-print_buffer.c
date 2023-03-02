@@ -10,28 +10,28 @@
 
 void print_buffer(char *b, int size)
 {
-	int a;
+	int count;
 	int b_size;
 
 	for (b_size = 0; b_size < size; b_size += 10)
 	{
 		printf("%08x: ", b_size);
-		for (a = 0; a < 10; a++)
+		for (count = 0; count < 10; count++)
 		{
-			if ((a + b_size) >= size)
+			if ((count + b_size) >= size)
 				printf(" ");
 			else
-				printf("%02x", *(b + a + b_size));
-			if ((a % 2) != 0 && a != 0)
+				printf("%02x", *(b + count + b_size));
+			if ((count % 2) != 0 && count != 0)
 				printf(" ");
 		}
-		for (a = 0; a < 10; a++)
+		for (count = 0; count < 10; count++)
 		{
-			if ((a + b_size) >= size)
+			if ((count + b_size) >= size)
 				break;
-			else if (*(b + a + b_size) >= 31 &&
-				 *(b + a + b_size) <= 126)
-				printf("%c", *(b + a + b_size));
+			else if (*(b + count + b_size) >= 31 &&
+				 *(b + count + b_size) <= 126)
+				printf("%c", *(b + count + b_size));
 			else
 				printf(".");
 		}
