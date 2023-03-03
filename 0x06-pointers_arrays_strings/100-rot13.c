@@ -1,29 +1,30 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
  * rot13 - It encodes rot13.This simply substitutes cipher that replaces a
  * letter with the 13th letter after it in the alphabet.
- * @s: String params for the pointer.
+ * @s: String targeted.
  * Return: *s on success.
  */
 
 char *rot13(char *s)
 {
-	int a, b;
-	char c[] = "ABCDEFGHIJKLMNOPQRSTUVWXZabcdefghijklmnopqrstuvwxyz";
-	char d[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
+	int i, j;
 
-	for (a = 0; s[a] != '\0'; a++)
+	char alphabet[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+	char rot_key[] = "NOPQRSTUVWXYZABCDEFGHIJKLMnopqrstuvwxyzabcdefghijklm";
+
+	for (i = 0; s[i] != '\0'; i++)
 	{
-		for (b = 0; c[b] != '\0'; b++)
+		for (j = 0; alphabet[j] != '\0'; j++)
 		{
-			if (s[a] == c[b])
+			if (s[i] == alphabet[j])
 			{
-				s[a] = d[b];
+				s[i] = rot_key[j];
 				break;
 			}
 		}
 	}
+
 	return (s);
 }
