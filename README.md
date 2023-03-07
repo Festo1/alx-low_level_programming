@@ -10,7 +10,7 @@
 
 ## ***Why C programming Language***
 
-### These are some of the Features that makes C a Unique Programming Language.
+### HERE are some of the KEY Features that makes C a Unique Programming Language.
 
 1. Structured programming: C language supports structured programming, which means that programs are broken down into smaller, more manageable pieces called functions.
 
@@ -32,18 +32,18 @@
 
 10. Wide community support: C language has a large and active community of developers who provide support, libraries, and resources for learning and usingthe language.
 
-### HERE are some of the Projects and Tasks in C Programming Language
+## **HERE are some of the Projects and Tasks in C Programming Language**
 
-## **0x00-hello_world**
+### *0x00-hello_world**
 
-## **0x01-variables_if_else_while**
+### *0x01-variables_if_else_while**
 
-## **0x02-functions_nested_loops**
+### *0x02-functions_nested_loops**
 
-## **0x04-more_functions_nested_loops**
+### *0x04-more_functions_nested_loops**
 
-## **0x05-pointers_arrays_strings**
+### *0x05-pointers_arrays_strings**
 
-## **0x06-pointers_arrays_strings**
+### *0x06-pointers_arrays_strings**
 
-## **0x07-pointers_arrays_strings**
+### *0x07-pointers_arrays_strings**
