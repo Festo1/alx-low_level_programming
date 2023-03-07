@@ -1,4 +1,4 @@
-# **WELCOME TO C PROGRAMMING WORLD
+# **WELCOME TO C PROGRAMMING WORLD**
 
 1. The first step when programming in C is to set up the development environment, which typically includes installing a compiler and an integrated development environment (IDE). The compiler translates the written code into machine-readable instructions that the computer can execute, while the IDE provides tools for writing and debugging code.
 
