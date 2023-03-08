@@ -24,7 +24,11 @@ Recursion can be a very powerful tool in programming, but it can also be tricky 
 
 4. When the structure of the problem is recursive: If the problem you are trying to solve has a recursive structure, then using recursion can be a natural and elegant way to solve it. Examples of such problems include traversing a tree or a graph.
 
- Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
+`NB`
+
+```
+Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
+```
 
 ## The following are the `prototypes` as used in the project.
 
