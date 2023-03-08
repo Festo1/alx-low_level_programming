@@ -8,9 +8,9 @@
 
 * Learning C provides a solid foundation for understanding computer programming concepts, memory management, and system-level programming. Its popularity and widespread use in industries such as telecommunications, finance, and game development make it a valuable language to learn for aspiring programmers.
 
-## ***Why C programming Language***
+## ***Why `C programming Language`***
 
-### HERE are some of the KEY Features that makes C a Unique Programming Language.
+### HERE are some of the `KEY` Features that makes C a Unique Programming Language.
 
 1. Structured programming: C language supports structured programming, which means that programs are broken down into smaller, more manageable pieces called functions.
 
@@ -32,18 +32,22 @@
 
 10. Wide community support: C language has a large and active community of developers who provide support, libraries, and resources for learning and usingthe language.
 
-## **HERE are some of the Projects and Tasks in C Programming Language**
+## **HERE are some of the `Projects` and `Tasks` in C Programming Language**
 
-### *0x00-hello_world*
+### *0x00. C - Hello, World*.
 
-### *0x01-variables_if_else_while*
+### *0x01. C - Variables, if, else, while*.
 
-### *0x02-functions_nested_loops*
+### *0x02. C - Functions, nested loops*.
 
-### *0x04-more_functions_nested_loops*
+### *0x03. C - Debugging*.
 
-### *0x05-pointers_arrays_strings*
+### *0x04. C - More functions, more nested loops*.
 
-### *0x06-pointers_arrays_strings*
+### *0x05. C - Pointers, arrays and strings*.
 
-### *0x07-pointers_arrays_strings*
+### *0x06. C - More pointers, arrays and strings*.
+
+### *0x07. C - Even more pointers, arrays and strings*.
+
+### *0x08. C - Recursion.*
