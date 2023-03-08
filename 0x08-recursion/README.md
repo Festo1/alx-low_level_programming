@@ -20,13 +20,15 @@ What is Recursion.
 
 4. When the structure of the problem is recursive: If the problem you are trying to solve has a recursive structure, then using recursion can be a natural and elegant way to solve it. Examples of such problems include traversing a tree or a graph.
 
-> Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
+ Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
 
 ## Some of the Prototype used in the project
 
 > #ifndef MAIN_H
-This line is telling the computer to check if something called "MAIN_H" hasn't been defined before. If it hasn't, then the computer will continue reading the code in this file. This helps make sure that this code is only read once, even if it's used in multiple places.
 
+* This line is telling the computer to check if something called "MAIN_H" hasn't been defined before. If it hasn't, then the computer will continue reading the code in this file. This helps make sure that this code is only read once, even if it's used in multiple places.
+
+>
 
 > #define MAIN_H
 
