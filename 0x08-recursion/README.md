@@ -8,7 +8,11 @@ What is Recursion.
 
 * Think of it like a Russian doll : a big doll contains smaller dolls, which contain even smaller dolls, and so on. Recursion works the same way: a big problem contains smaller versions of the same problem, which contain even smaller versions, and so on, until the problem is small enough to solve easily.
 
-* Recursion can be a very powerful tool in programming, but it can also be tricky to use correctly. It's important to make sure that your recursive function has a base case, which is a condition that stops the recursion from going on forever. Otherwise, your program might get stuck in an infinite loop!
+`NB`
+
+```
+Recursion can be a very powerful tool in programming, but it can also be tricky to use correctly. It's important to make sure that your recursive function has a base case, which is a condition that stops the recursion from going on forever. Otherwise, your program might get stuck in an infinite loop!
+```
 
 ## Why use recursion ?
 
@@ -22,7 +26,7 @@ What is Recursion.
 
  Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
 
-## The following are the **prototypes** as used in the project.
+## The following are the `prototypes` as used in the project.
 
 > #ifndef MAIN_H
 
