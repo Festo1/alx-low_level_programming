@@ -8,9 +8,9 @@
 
 * Learning C provides a solid foundation for understanding computer programming concepts, memory management, and system-level programming. Its popularity and widespread use in industries such as telecommunications, finance, and game development make it a valuable language to learn for aspiring programmers.
 
-## ***Why `C programming Language`***
+## ***Why `C programming Language ?`***
 
-### HERE are some of the `KEY` Features that makes C a Unique Programming Language.
+### HERE are some of the `KEY` Features that makes `C` a Unique Programming Language.
 
 1. Structured programming: C language supports structured programming, which means that programs are broken down into smaller, more manageable pieces called functions.
 
