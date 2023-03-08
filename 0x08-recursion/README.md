@@ -22,7 +22,7 @@ What is Recursion.
 
  Recursion can make your code more concise and easier to read, as it often reduces the amount of code you need to write compared to an iterative approach. However, it's important to use recursion carefully, as it can be easy to create an infinite loop if you're not careful.
 
-## Some of the Prototype used in the project
+## The following are the **prototypes** as used in the project.
 
 > #ifndef MAIN_H
 
