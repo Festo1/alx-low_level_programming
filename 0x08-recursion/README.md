@@ -1,6 +1,8 @@
-# **0x08. C - RECURSION**
+0x08. C - RECURSION
+===================
 
-## What is Recursion.
+What is Recursion.
+------------------
 
 *  *Recursion in C is a way of solving a problem by breaking it down into smaller versions of itself. It's kind of like a loop, but instead of repeatingthe same code over and over again, it calls itself to solve a smaller version of the problem*.
 
