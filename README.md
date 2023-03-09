@@ -34,6 +34,10 @@
 
 ## **HERE are some of the `Projects` and `Tasks` in C Programming Language**
 
+[GitLab Homepage](https://gitlab.com "Link title.")
+
+[0x00. C - Hello, world](https://github.com/Festo1/alx-low_level_programming/tree/master/0x00-hello_world)
+
 ### *0x00. C - Hello, World*.
 
 ### *0x01. C - Variables, if, else, while*.
