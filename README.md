@@ -51,4 +51,3 @@
 **[0x07. C - Even more pointers, arrays and strings](https://github.com/Festo1/alx-low_level_programming/tree/master/0x07-pointers_arrays_strings)**
 
 **[0x08. C - Recursion](https://github.com/Festo1/alx-low_level_programming/tree/master/0x08-recursion)**
-
