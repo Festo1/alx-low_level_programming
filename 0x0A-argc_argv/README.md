@@ -27,8 +27,10 @@ So, if we ran the program with the command "myprogram.exe 10 20", then "argv" wo
 
 Here's some example code to show you how "argc" and "argv" work in C:
 
-c
-Copy code
+
+```
+ **code**
+
 #include <stdio.h>
 
 int main(int argc, char *argv[]) {
@@ -37,10 +39,11 @@ int main(int argc, char *argv[]) {
   printf("The second argument is %s\n", argv[2]);
   return 0;
 }
-In this code, we're using "argc" and "argv" to print out the program name and the first two arguments that we typed in after the program name. If we ran this program with the command "myprogram.exe hello world", then the output would be:
+```
+* In this code, we're using "argc" and "argv" to print out the program name and the first two arguments that we typed in after the program name. If we ran this program with the command "myprogram.exe hello world", then the output would be:
 
-python
-Copy code
+```
+** cod**e
 The program name is myprogram.exe
 The first argument is hello
 The second argument is world
