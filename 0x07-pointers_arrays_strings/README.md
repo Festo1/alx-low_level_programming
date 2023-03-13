@@ -12,4 +12,4 @@
 
 * print_diagsums - It prints the sum of two diagonals of a square matrix of integers.
 
-
+Copyright &copy; 2023 Festoug, All rights reserved.
