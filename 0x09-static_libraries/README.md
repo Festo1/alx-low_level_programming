@@ -174,8 +174,6 @@ nm file1.o
 ```
 * Here, `file1.o` is the name of the object file that should be inspected.
 
-Copyright &copy; 2023 Festoug, All rights reserved.
-
 * To list the symbols that are defined in an archive file, you can use the following command:
 
 ```
@@ -185,3 +183,5 @@ nm libmylib.a
 * Here, `libmylib.a` is the name of the archive file that should be inspected.
 
 * These are just a few basic examples of how ar, ranlib, and nm can be used when working with static libraries in C. There are many other options and use cases for these commands, depending on the specific requirements of your project.
+
+Copyright &copy; 2023 Festoug, All rights reserved.
