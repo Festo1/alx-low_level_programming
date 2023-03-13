@@ -82,3 +82,5 @@ Value   |'h'|'e'|'l'|'l'|'o'|
 
 char first_char = greeting[0];  // first_char now holds the value 'h'
 ```
+
+**Copyright &copy; 2023 Festoug, All rights reserved.**
