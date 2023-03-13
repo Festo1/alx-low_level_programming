@@ -55,3 +55,7 @@
 **[0x09. C - Static_libraries](https://github.com/Festo1/alx-low_level_programming/tree/master/0x09-static_libraries)**
 
 **[0x0A. C - argc, argv](https://github.com/Festo1/alx-low_level_programming/tree/master/0x0A-argc_argv)**
+
+**[0x0B. C - malloc, free](https://github.com/Festo1/alx-low_level_programming/tree/master/0x0B-malloc_free)**
+
+Copyright &copy; 2023 Festoug, All rights reserved.
