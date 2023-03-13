@@ -109,3 +109,5 @@ Recursion can make your code more concise and easier to read, as it often reduce
 * This line is the end of the header guard system. It tells the computer that it has reached the end of the code in the "main.h" file and should stop reading it.
 
 >
+
+Copyright &copy; 2023 Festoug, All rights reserved.
