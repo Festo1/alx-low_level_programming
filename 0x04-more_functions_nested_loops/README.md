@@ -88,3 +88,5 @@ be included in your header file called main.h.
 * print_triangle - It prints a triangle.
 
 * print_number - It prints an integer.
+
+**Copyright &copy; 2023 Festoug, All rights reserved.**
