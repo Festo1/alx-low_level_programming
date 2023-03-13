@@ -27,4 +27,4 @@ letter with the 13th letter after it in the alphabet.
 
 * print_buffer - It prints buffer.
 
-Copyright &copy; 2023 Festoug, All rights reserved.
+**Copyright &copy; 2023 Festoug, All rights reserved.**
