@@ -11,5 +11,4 @@
 * **Overall, programming in C for the first time can be challenging, but also rewarding. With practice and patience, a programmer can become proficient in C and use it to create fast, efficient, and powerful applications**.
 
 
-
-
+**Copyright &copy; 2023 Festoug, All rights reserved.**
