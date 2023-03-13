@@ -174,6 +174,8 @@ nm file1.o
 ```
 * Here, `file1.o` is the name of the object file that should be inspected.
 
+Copyright &copy; 2023 Festoug, All rights reserved.
+
 * To list the symbols that are defined in an archive file, you can use the following command:
 
 ```
