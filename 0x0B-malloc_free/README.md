@@ -36,4 +36,4 @@ free(numbers);
 
 * `Malloc` also allows a program to allocate memory for data structures that are too large to be created on the stack. For example, if a program needs to create an array with thousands of elements, it's not practical to allocate that array on the stack. `Malloc` allows the program to allocate that array on the heap, where there's more available memory.
 
-&copy;all rights reserved by Festoug 2023.
+                                Copyright &copy; 2023 Festoug, All rights reserved.
