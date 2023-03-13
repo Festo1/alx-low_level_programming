@@ -184,4 +184,4 @@ nm libmylib.a
 
 * These are just a few basic examples of how ar, ranlib, and nm can be used when working with static libraries in C. There are many other options and use cases for these commands, depending on the specific requirements of your project.
 
-Copyright &copy; 2023 Festoug, All rights reserved.
+**Copyright &copy; 2023 Festoug, All rights reserved.**
