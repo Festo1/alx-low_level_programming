@@ -25,6 +25,8 @@ What is argc and argv ?
 
 So, if we ran the program with the command "myprogram.exe 10 20", then "argv" would be an array with three strings: "myprogram.exe", "10", and "20".
 
+Copyright &copy; 2023 Festoug, All rights reserved.
+
 Here's some example code to show you how "argc" and "argv" work in C:
 
 ~~~
