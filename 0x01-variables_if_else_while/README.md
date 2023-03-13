@@ -44,3 +44,5 @@ if (number > 10) {
 }
 ```
 * In this code, we're creating a variable called "number" and assigning it a value of 5. Then, we're using an if statement to check if the value of "number" is greater than 10. If it is, the program will print "The number is greater than 10." If it's not, the program will print "The number is not greater than 10."
+
+**Copyright &copy; 2023 Festoug, All rights reserved.**
