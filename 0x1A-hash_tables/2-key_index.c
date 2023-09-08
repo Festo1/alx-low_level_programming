@@ -9,14 +9,5 @@
  */
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
 {
-	unsigned long int idx;
-
-	/* If the size is 0, return 0 as there's no array to index into. */
-	if (size == 0)
-		return (0);
-
-	 /* Calculate the hash value using the djb2 algorithm. */
-	idx = hash_djb2(key);
-	return (idx % size);
+	return (hash_djb2(key) % size);
 }
-
