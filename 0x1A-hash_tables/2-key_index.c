@@ -11,7 +11,7 @@
 unsigned long int key_index(const unsigned char *key, unsigned long int size)
 {
 	unsigned long int idx;
-	
+
 	/* If the size is 0, return 0 as there's no array to index into. */
 	if (size == 0)
 		return (0);
