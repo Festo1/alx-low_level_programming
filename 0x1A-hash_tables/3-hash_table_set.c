@@ -1,10 +1,12 @@
 #include "hash_tables.h"
 
 /**
- * create_and_add_node - Malloc, set values, and insert a node into the hash table.
+ * create_and_add_node - Malloc, set values, and insert a node into
+ * the hash table.
  *
  * Description
- * This function creates a new hash node, sets its key and value, and inserts it into
+ * This function creates a new hash node, sets its key and value,
+ * and inserts it into
  * the specified index of the hash table's array.
  *
  * @ht: The hash table where the node will be inserted.
@@ -57,8 +59,9 @@ int create_and_add_node(hash_table_t *ht, const char *key, const char *value,
  * hash_table_set - Add an element to a hash table.
  *
  * Description
- * This function adds a key-value pair to the hash table. If the key already exists,
- * it updates the value; otherwise, it creates a new node and inserts it.
+ * This function adds a key-value pair to the hash table. If the key
+ * already exists, it updates the value; otherwise, it creates a new node
+ * and inserts it.
  *
  * @ht: The hash table where the key-value pair will be added.
  * @key: The key for the new node (cannot be an empty string).
@@ -68,11 +71,6 @@ int create_and_add_node(hash_table_t *ht, const char *key, const char *value,
  */
 int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 {
-	/* get index */
-	/* if key already exists, update value and return */
-	/* else create node */
-	/* set ht idx ptr to node; else add node to front if collision */
-
 	unsigned long int idx;
 	hash_node_t *node = NULL;
 	char *v;
@@ -94,8 +92,8 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		if (node->value)
 			free(node->value);
 		node->value = v;
-		return (1);
 	}
 
-	return (create_and_add_node(ht, key, value, idx)); /* Create a new node and add it to the hash table. */
+	/* Create a new node and add it to the hash table. */
+	return (create_and_add_node(ht, key, value, idx));
 }
