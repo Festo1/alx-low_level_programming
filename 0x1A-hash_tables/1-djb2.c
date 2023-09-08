@@ -9,12 +9,12 @@
  */
 unsigned long int hash_djb2(const unsigned char *str)
 {
-	unsigned long hash = 5381; /* Initialize the hash value to 5381, a prime number. */
+	unsigned long int hash;
 	int c;
 
+	hash = 5381;
 	while ((c = *str++))
-		/* Update the hash value using the djb2 formula. */
-		hash = ((hash << 5) + hash) + c; /* The formula: hash = hash * 33 + c */
+		hash = ((hash << 5) + hash) + c; /* hash * 33 + c */
 
-	return (hash); /* Return the computed hash value (key). */
+	return (hash);
 }
