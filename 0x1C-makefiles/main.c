@@ -1,10 +1,11 @@
-#include "m.h"
+#include "message.h"
 
 /**
  * main - Entry point
  *
- * Return: Always 
+ * Return: Always
  */
+
 int main(void)
 {
 	print_school();

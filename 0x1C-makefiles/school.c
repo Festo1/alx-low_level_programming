@@ -1,10 +1,13 @@
-#include "m.h"
+#include "message.h"
 
 /**
- * print_school
+ * print_school - print the logo of school
  *
  * Return: Nothing
+ *
+ * Learn more: https://www.holbertonschool.com
  */
+
 void print_school(void)
 {
 	printf("j#0000000000000000000000000000000000000\n");
